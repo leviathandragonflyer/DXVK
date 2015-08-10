@@ -1,5 +1,3 @@
-#define DXVK_BIN L"DXVK.exe"
-
 #define WINDOWS_LEAN_AND_MEAN
 #include <iostream>
 
